@@ -19,6 +19,7 @@
     	{ title: "Google", url: "https://maps.google.com/maps?q=%lat%,%lng%"},
     	{ title: "Intel", url: "https://intel.ingress.com/intel?ll=%lat%,%lng%&z=18"},
     	{ title: "OSM", url: "https://www.openstreetmap.org/?mlat=%lat%&mlon=%lng%#map=18/%lat%/%lng%"}
+        { title: "Geoportail.fr", url: "https://www.geoportail.gouv.fr/carte?c=%lng%,%lat%&z=16&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&permalink=yes"}
     ];
 
     let tryCounter = 0;
